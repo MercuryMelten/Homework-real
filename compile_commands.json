@@ -1,0 +1,5 @@
+[{
+  "file": "C:\\Users\\user\\Documents\\Code\\C++\\projects\\section-4-challenge\\ASS\\ASS 2\\ASS2\\main.cpp",
+  "directory": "C:\\Users\\user\\Documents\\Code\\C++\\projects\\section-4-challenge\\ASS\\ASS 2\\ASS2",
+  "command": "\"\"C:/Program Files/mingw64/bin/g++.exe\"\" -c \"C:\\Users\\user\\Documents\\Code\\C++\\projects\\section-4-challenge\\ASS\\ASS 2\\ASS2\\main.cpp\" -o \"C:\\Users\\user\\Documents\\Code\\C++\\projects\\section-4-challenge\\ASS\\ASS 2\\ASS2\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
